@@ -1,0 +1,27 @@
+{
+  "name": "random-scripts",
+  "version": "1.0.0",
+  "description": "Library of random scripts. Just for fun, not recommended to be used",
+  "main": "index.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexdevero/random-scripts.git"
+  },
+  "author": "@alexdevero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexdevero/random-scripts/issues"
+  },
+  "homepage": "https://github.com/alexdevero/random-scripts#readme",
+  "devDependencies": {
+    "jest": "^29.6.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}
